@@ -41,4 +41,4 @@
 
 ![Decoder](/home/nshlapo/Documents/CompArchFA15/HW/HW2/decoder_wave.png)
 
-![4:1 Multiplexer](/home/nshlapo/Documents/CompArchFA2015/HW/HW2/mux_wave.png)
+![4:1 Multiplexer](/home/nshlapo/Documents/CompArchFA15/HW/HW2/mux_wave.png)
