@@ -37,8 +37,8 @@
 |1   1   1   0   |   1  1  |  0  |  0|
 
 ###Delay Propagations
-![Full Adder](/home/nshlapo/Documents/CompArchFA15/HW/HW2/adder_wave.png)
+![Full Adder](./adder_wave.png)
 
-![Decoder](/home/nshlapo/Documents/CompArchFA15/HW/HW2/decoder_wave.png)
+![Decoder](./decoder_wave.png)
 
-![4:1 Multiplexer](/home/nshlapo/Documents/CompArchFA15/HW/HW2/mux_wave.png)
+![4:1 Multiplexer](./mux_wave.png)
