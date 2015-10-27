@@ -1,0 +1,5 @@
+decoders.v
+multiplexer.v
+register.v
+regfile.v
+regfile.t.v

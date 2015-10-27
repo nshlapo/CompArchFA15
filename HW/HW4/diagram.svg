@@ -1,0 +1,614 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="856"
+     height="550">
+    <defs/>
+    <g transform=" translate(-1291.1,-2515.1)">
+        <rect x="1510.2" y="2662.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <rect x="1618.2" y="2662.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <ellipse cx="1591" cy="2664" rx="4.466453733000001"
+                 ry="4.466453733000001" fill="#ffffff" stroke="#000000"
+                 stroke-width="3.6" pointer-events="none"/>
+        <path d="M 1513.8 2664 L 1530 2664" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1596.82 2664 L 1618.2 2664" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1585.14 2663.77 L 1533.51 2700.38 L 1533.68 2627.12 L 1585.07 2663.73"
+              fill="#ffffff" stroke="#000000" stroke-width="3.6"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1612.8" y="2656.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1504.8" y="2656.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1924.2" y="2590.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <rect x="1924.2" y="2626.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <rect x="2050.2" y="2608.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <path d="M 1927.8 2592 L 1953 2592" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1927.8 2628 L 1953 2628" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1963.88 2573.48 L 1952.6 2573.5 C 1952.62 2595.9 1952.73 2618.66 1952.75 2646.39 L 1963.7 2646.56 C 1981.85 2646.51 1996.36 2647.79 2008.09 2641.56 C 2018.25 2636.15 2026.95 2624.97 2026.89 2610.25 C 2026.82 2595.07 2018.31 2585.22 2007.24 2578.56 C 1996.43 2572.05 1981.75 2573.51 1963.88 2573.48 Z"
+              fill="#ffffff" stroke="#000000" stroke-width="2.92"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 2028.6 2610 L 2050.2 2610" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="2044.8" y="2602.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1918.8" y="2584.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1918.8" y="2620.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1600.2" y="2590.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <rect x="1744.2" y="2590.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <rect x="1600.2" y="2662.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <path d="M 1629 2565 L 1692 2565 L 1719 2565 L 1719 2691 L 1629 2691 Z"
+              fill="#ffffff" stroke="#000000" stroke-width="3.6"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="22px">
+            <text x="1701" y="2595.6">
+                Q
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="22px">
+            <text x="1647" y="2595.6">
+                D
+            </text>
+        </g>
+        <path d="M 1629 2655 L 1647 2664 L 1629 2673" fill="none"
+              stroke="#000000" stroke-width="2.7" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1603.8 2592 L 1629 2592" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1719 2592 L 1744.2 2592" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1603.8 2664 L 1629 2664" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="1738.8" y="2584.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1594.8" y="2656.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1594.8" y="2584.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1762.2" y="2590.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <rect x="1906.2" y="2590.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <rect x="1762.2" y="2662.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <path d="M 1791 2565 L 1854 2565 L 1881 2565 L 1881 2691 L 1791 2691 Z"
+              fill="#ffffff" stroke="#000000" stroke-width="3.6"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="22px">
+            <text x="1863" y="2595.6">
+                Q
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="22px">
+            <text x="1809" y="2595.6">
+                D
+            </text>
+        </g>
+        <path d="M 1791 2655 L 1809 2664 L 1791 2673" fill="none"
+              stroke="#000000" stroke-width="2.7" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1765.8 2592 L 1791 2592" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1881 2592 L 1906.2 2592" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1765.8 2664 L 1791 2664" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="1900.8" y="2584.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1756.8" y="2656.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1756.8" y="2584.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <path d="M 1764 2592 L 1746 2592" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1926 2592 L 1908 2592" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1440" y="2520" width="72" height="108" fill="transparent"
+              stroke="transparent" stroke-width="1.8" pointer-events="none"/>
+        <g transform="translate(1445,2534)scale(1.8)">
+            <switch>
+                <foreignObject pointer-events="all" width="17" height="59"
+                               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display: inline-block; font-size: 12px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.26; vertical-align: top; overflow: hidden; max-height: 59px; max-width: 39px; width: 17px; white-space: normal;">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                             style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                            <p style="margin:0px;">
+                                <span style="line-height: 60.48px;">
+                                    <b>
+                                        <font style="font-size: 1.7em;">
+                                            D
+                                        </font>
+                                    </b>
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="9" y="35" fill="#000" text-anchor="middle"
+                      font-size="12px" font-family="Arial,Helvetica">
+                    [Object]
+                </text>
+            </switch>
+        </g>
+        <rect x="2070" y="2538" width="72" height="108" fill="transparent"
+              stroke="transparent" stroke-width="1.8" pointer-events="none"/>
+        <g transform="translate(2075,2552)scale(1.8)">
+            <switch>
+                <foreignObject pointer-events="all" width="16" height="59"
+                               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display: inline-block; font-size: 12px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.26; vertical-align: top; overflow: hidden; max-height: 59px; max-width: 39px; width: 16px; white-space: normal;">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                             style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                            <p style="margin:0px;">
+                                <span style="line-height: 60.48px;">
+                                    <b>
+                                        <font style="font-size: 1.5em;">
+                                            Q
+                                        </font>
+                                    </b>
+                                </span>
+                            </p>
+                            <p style="margin:0px;">
+                                <span style="font-size: 48px; line-height: 60.48px;">
+                                    <b>
+                                        <br/>
+                                    </b>
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="8" y="35" fill="#000" text-anchor="middle"
+                      font-size="12px" font-family="Arial,Helvetica">
+                    [Object]
+                </text>
+            </switch>
+        </g>
+        <rect x="1422" y="2592" width="72" height="90" fill="transparent"
+              stroke="transparent" stroke-width="1.8" pointer-events="none"/>
+        <g transform="translate(1427,2606)scale(1.8)">
+            <switch>
+                <foreignObject pointer-events="all" width="31" height="49"
+                               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display: inline-block; font-size: 8px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.26; vertical-align: top; overflow: hidden; max-height: 49px; max-width: 39px; width: 31px; white-space: normal;">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                             style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                            <p style="margin:0px;">
+                                <span style="line-height: 60.48px;">
+                                    <b>
+                                        <font style="font-size: 2.3em;">
+                                            Clk
+                                        </font>
+                                    </b>
+                                </span>
+                            </p>
+                            <p style="margin:0px;">
+                                <span style="font-size: 48px; line-height: 60.48px;">
+                                    <b>
+                                        <br/>
+                                    </b>
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="16" y="28" fill="#000" text-anchor="middle"
+                      font-size="8px" font-family="Arial,Helvetica">
+                    [Object]
+                </text>
+            </switch>
+        </g>
+        <rect x="1422" y="2682" width="90" height="144" fill="transparent"
+              stroke="transparent" stroke-width="1.8" pointer-events="none"/>
+        <g transform="translate(1427,2696)scale(1.8)">
+            <switch>
+                <foreignObject pointer-events="all" width="42" height="65"
+                               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display: inline-block; font-size: 8px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.26; vertical-align: top; overflow: hidden; max-height: 79px; max-width: 49px; width: 42px; white-space: normal;">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                             style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                            <p style="margin:0px;">
+                                <span style="line-height: 60.48px;">
+                                    <b>
+                                        <font style="font-size: 1.9em;">
+                                            WrEn
+                                        </font>
+                                    </b>
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="21" y="37" fill="#000" text-anchor="middle"
+                      font-size="8px" font-family="Arial,Helvetica">
+                    [Object]
+                </text>
+            </switch>
+        </g>
+        <path d="M 1764 2664 L 1746 2664 L 1746 2718 L 1512 2718 L 1512 2664"
+              fill="none" stroke="#000000" stroke-width="3.6"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1512 2664 L 1494 2664" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1602 2592 L 1512 2592" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1512 2754 L 1908 2754 Q 1926 2754 1926 2736 L 1926 2628"
+              fill="none" stroke="#000000" stroke-width="3.6"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1654.2" y="2932.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <rect x="1762.2" y="2932.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <ellipse cx="1735" cy="2934" rx="4.466453733000001"
+                 ry="4.466453733000001" fill="#ffffff" stroke="#000000"
+                 stroke-width="3.6" pointer-events="none"/>
+        <path d="M 1657.8 2934 L 1674 2934" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1740.82 2934 L 1762.2 2934" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1729.14 2933.77 L 1677.51 2970.38 L 1677.68 2897.12 L 1729.07 2933.73"
+              fill="#ffffff" stroke="#000000" stroke-width="3.6"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1756.8" y="2926.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1648.8" y="2926.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1528.2" y="2914.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <rect x="1528.2" y="2950.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <rect x="1654.2" y="2932.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <path d="M 1531.8 2916 L 1557 2916" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1531.8 2952 L 1557 2952" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1567.88 2897.48 L 1556.6 2897.5 C 1556.62 2919.9 1556.73 2942.66 1556.75 2970.39 L 1567.7 2970.56 C 1585.85 2970.51 1600.36 2971.79 1612.09 2965.56 C 1622.25 2960.15 1630.95 2948.97 1630.89 2934.25 C 1630.82 2919.07 1622.31 2909.22 1611.24 2902.56 C 1600.43 2896.05 1585.75 2897.51 1567.88 2897.48 Z"
+              fill="#ffffff" stroke="#000000" stroke-width="2.92"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1632.6 2934 L 1654.2 2934" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="1648.8" y="2926.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1522.8" y="2908.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1522.8" y="2944.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1744.2" y="2860.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <rect x="1888.2" y="2860.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <rect x="1744.2" y="2932.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <path d="M 1773 2835 L 1836 2835 L 1863 2835 L 1863 2961 L 1773 2961 Z"
+              fill="#ffffff" stroke="#000000" stroke-width="3.6"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="22px">
+            <text x="1845" y="2865.6">
+                Q
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="22px">
+            <text x="1791" y="2865.6">
+                D
+            </text>
+        </g>
+        <path d="M 1773 2925 L 1791 2934 L 1773 2943" fill="none"
+              stroke="#000000" stroke-width="2.7" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1747.8 2862 L 1773 2862" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1863 2862 L 1888.2 2862" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1747.8 2934 L 1773 2934" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="1882.8" y="2854.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1738.8" y="2926.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1738.8" y="2854.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1906.2" y="2860.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <rect x="2050.2" y="2860.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <rect x="1906.2" y="2932.2" width="3.6" height="3.6" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <path d="M 1935 2835 L 1998 2835 L 2025 2835 L 2025 2961 L 1935 2961 Z"
+              fill="#ffffff" stroke="#000000" stroke-width="3.6"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="22px">
+            <text x="2007" y="2865.6">
+                Q
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="22px">
+            <text x="1953" y="2865.6">
+                D
+            </text>
+        </g>
+        <path d="M 1935 2925 L 1953 2934 L 1935 2943" fill="none"
+              stroke="#000000" stroke-width="2.7" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1909.8 2862 L 1935 2862" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 2025 2862 L 2050.2 2862" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1909.8 2934 L 1935 2934" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="2044.8" y="2854.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1900.8" y="2926.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <rect x="1900.8" y="2854.8" width="14.4" height="14.4" fill="none"
+              stroke="none" pointer-events="none"/>
+        <path d="M 1908 2862 L 1890 2862" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1440" y="2790" width="72" height="108" fill="transparent"
+              stroke="transparent" stroke-width="1.8" pointer-events="none"/>
+        <g transform="translate(1445,2804)scale(1.8)">
+            <switch>
+                <foreignObject pointer-events="all" width="17" height="59"
+                               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display: inline-block; font-size: 12px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.26; vertical-align: top; overflow: hidden; max-height: 59px; max-width: 39px; width: 17px; white-space: normal;">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                             style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                            <p style="margin:0px;">
+                                <span style="line-height: 60.48px;">
+                                    <b>
+                                        <font style="font-size: 1.7em;">
+                                            D
+                                        </font>
+                                    </b>
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="9" y="35" fill="#000" text-anchor="middle"
+                      font-size="12px" font-family="Arial,Helvetica">
+                    [Object]
+                </text>
+            </switch>
+        </g>
+        <rect x="2070" y="2790" width="72" height="108" fill="transparent"
+              stroke="transparent" stroke-width="1.8" pointer-events="none"/>
+        <g transform="translate(2075,2804)scale(1.8)">
+            <switch>
+                <foreignObject pointer-events="all" width="16" height="59"
+                               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display: inline-block; font-size: 12px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.26; vertical-align: top; overflow: hidden; max-height: 59px; max-width: 39px; width: 16px; white-space: normal;">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                             style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                            <p style="margin:0px;">
+                                <span style="line-height: 60.48px;">
+                                    <b>
+                                        <font style="font-size: 1.5em;">
+                                            Q
+                                        </font>
+                                    </b>
+                                </span>
+                            </p>
+                            <p style="margin:0px;">
+                                <span style="font-size: 48px; line-height: 60.48px;">
+                                    <b>
+                                        <br/>
+                                    </b>
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="8" y="35" fill="#000" text-anchor="middle"
+                      font-size="12px" font-family="Arial,Helvetica">
+                    [Object]
+                </text>
+            </switch>
+        </g>
+        <rect x="1422" y="2862" width="72" height="108" fill="transparent"
+              stroke="transparent" stroke-width="1.8" pointer-events="none"/>
+        <g transform="translate(1427,2876)scale(1.8)">
+            <switch>
+                <foreignObject pointer-events="all" width="31" height="59"
+                               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display: inline-block; font-size: 8px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.26; vertical-align: top; overflow: hidden; max-height: 59px; max-width: 39px; width: 31px; white-space: normal;">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                             style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                            <p style="margin:0px;">
+                                <span style="line-height: 60.48px;">
+                                    <b>
+                                        <font style="font-size: 2.3em;">
+                                            Clk
+                                        </font>
+                                    </b>
+                                </span>
+                            </p>
+                            <p style="margin:0px;">
+                                <span style="font-size: 48px; line-height: 60.48px;">
+                                    <b>
+                                        <br/>
+                                    </b>
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="16" y="33" fill="#000" text-anchor="middle"
+                      font-size="8px" font-family="Arial,Helvetica">
+                    [Object]
+                </text>
+            </switch>
+        </g>
+        <rect x="1422" y="2916" width="90" height="144" fill="transparent"
+              stroke="transparent" stroke-width="1.8" pointer-events="none"/>
+        <g transform="translate(1427,2930)scale(1.8)">
+            <switch>
+                <foreignObject pointer-events="all" width="42" height="65"
+                               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display: inline-block; font-size: 8px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.26; vertical-align: top; overflow: hidden; max-height: 79px; max-width: 49px; width: 42px; white-space: normal;">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                             style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                            <p style="margin:0px;">
+                                <span style="line-height: 60.48px;">
+                                    <b>
+                                        <font style="font-size: 1.9em;">
+                                            WrEn
+                                        </font>
+                                    </b>
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="21" y="37" fill="#000" text-anchor="middle"
+                      font-size="8px" font-family="Arial,Helvetica">
+                    [Object]
+                </text>
+            </switch>
+        </g>
+        <path d="M 1746 2862 L 1512 2862" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1512 2988 L 1521 2988 Q 1530 2988 1530 2970 L 1530 2952"
+              fill="none" stroke="#000000" stroke-width="3.6"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 2052 2862 L 2070 2862" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1494 2916 L 1530 2916" fill="none" stroke="#000000"
+              stroke-width="3.6" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1746 2934 L 1746 2988 L 1908 2988 L 1908 2934" fill="none"
+              stroke="#000000" stroke-width="3.6" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="1296" y="2592" width="72" height="108" fill="transparent"
+              stroke="transparent" stroke-width="1.8" pointer-events="none"/>
+        <g transform="translate(1301,2606)scale(1.8)">
+            <switch>
+                <foreignObject pointer-events="all" width="34" height="59"
+                               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display: inline-block; font-size: 12px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.26; vertical-align: top; overflow: hidden; max-height: 59px; max-width: 39px; width: 34px; white-space: normal;">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                             style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                            <p style="margin:0px;">
+                                <span style="line-height: 60.48px;">
+                                    <b>
+                                        <font style="font-size: 3em;">
+                                            1)
+                                        </font>
+                                    </b>
+                                </span>
+                            </p>
+                            <p style="margin:0px;">
+                                <span style="line-height: 60.48px;">
+                                    <b>
+                                        <font style="font-size: 1.7em;">
+                                            <br/>
+                                        </font>
+                                    </b>
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="17" y="35" fill="#000" text-anchor="middle"
+                      font-size="12px" font-family="Arial,Helvetica">
+                    [Object]
+                </text>
+            </switch>
+        </g>
+        <rect x="1296" y="2844" width="72" height="108" fill="transparent"
+              stroke="transparent" stroke-width="1.8" pointer-events="none"/>
+        <g transform="translate(1301,2858)scale(1.8)">
+            <switch>
+                <foreignObject pointer-events="all" width="34" height="59"
+                               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display: inline-block; font-size: 12px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.26; vertical-align: top; overflow: hidden; max-height: 59px; max-width: 39px; width: 34px; white-space: normal;">
+                        <div xmlns="http://www.w3.org/1999/xhtml"
+                             style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                            <p style="margin:0px;">
+                                <span style="line-height: 60.48px;">
+                                    <b>
+                                        <font style="font-size: 3em;">
+                                            2)
+                                        </font>
+                                    </b>
+                                </span>
+                            </p>
+                            <p style="margin:0px;">
+                                <span style="line-height: 60.48px;">
+                                    <b>
+                                        <font style="font-size: 1.7em;">
+                                            <br/>
+                                        </font>
+                                    </b>
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="17" y="35" fill="#000" text-anchor="middle"
+                      font-size="12px" font-family="Arial,Helvetica">
+                    [Object]
+                </text>
+            </switch>
+        </g>
+    </g>
+</svg>
