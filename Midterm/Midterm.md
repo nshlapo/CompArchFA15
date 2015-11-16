@@ -139,3 +139,5 @@ Subcomponent | Cost per | # | Total
 3XOR | 6 | 1 | 6
 
 For a total cost of **12**
+
+*Previous lab work was used to create the input conditioner* `https://github.com/nshlapo/CompArchLab2/blob/master/pics/circuit.jpg`
